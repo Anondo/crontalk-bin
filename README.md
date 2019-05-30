@@ -10,10 +10,10 @@ This repo contains all the binary executables for [CronTalk](https://github.com/
 
 | OS      	| x86                                                                                      	| x86_64                                                                                      	|
 |---------	|------------------------------------------------------------------------------------------	|---------------------------------------------------------------------------------------------	|
-| Mac     	| [Download](https://github.com/Anondo/crontalk-bin/blob/master/v1/mac_386.zip)     	| [Download](https://github.com/Anondo/crontalk-bin/blob/master/v1/mac_amd64.zip)     	|
-| Linux   	| [Download](https://github.com/Anondo/crontalk-bin/blob/master/v1/linux_386.zip)   	| [Download](https://github.com/Anondo/crontalk-bin/blob/master/v1/linux_amd64.zip)   	|
-| FreeBSD 	| [Download](https://github.com/Anondo/crontalk-bin/blob/master/v1/freebsd_386.zip) 	| [Download](https://github.com/Anondo/crontalk-bin/blob/master/v1/freebsd_amd64.zip) 	|
-| Windows 	| [Download](https://github.com/Anondo/crontalk-bin/blob/master/v1/windows_386.zip) 	| [Download](https://github.com/Anondo/crontalk-bin/blob/master/v1/windows_amd64.zip) 	|
+| Mac     	| [Download](https://github.com/Anondo/crontalk-bin/blob/master/v2.1.0/mac_386.zip)     	| [Download](https://github.com/Anondo/crontalk-bin/blob/master/v2.1.0/mac_amd64.zip)     	|
+| Linux   	| [Download](https://github.com/Anondo/crontalk-bin/blob/master/v2.1.0/linux_386.zip)   	| [Download](https://github.com/Anondo/crontalk-bin/blob/master/v2.1.0/linux_amd64.zip)   	|
+| FreeBSD 	| [Download](https://github.com/Anondo/crontalk-bin/blob/master/v2.1.0/freebsd_386.zip) 	| [Download](https://github.com/Anondo/crontalk-bin/blob/master/v2.1.0/freebsd_amd64.zip) 	|
+| Windows 	| [Download](https://github.com/Anondo/crontalk-bin/blob/master/v2.1.0/windows_386.zip) 	| [Download](https://github.com/Anondo/crontalk-bin/blob/master/v2.1.0/windows_amd64.zip) 	|
 
 
 
